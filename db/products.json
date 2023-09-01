@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Cocacola",
+      "descriotion": "descripcion de una gaseosa"
+    },
+    {
+      "id": 2,
+      "name": "Pepsy",
+      "descriotion": "descripcion de una gaseosa"
+    },
+    {
+      "id": 3,
+      "name": "Galletitas",
+      "descriotion": "descripcion saladas"
+    },
+    {
+      "id": 4,
+      "name": "Mantecol",
+      "descriotion": "descripcion calorias"
+    },
+    {
+      "id": 5,
+      "name": "Mantecol",
+      "descriotion": "descripcion calorias"
+    },
+    {
+      "id": 5,
+      "name": "Mantecol",
+      "descriotion": "descripcion calorias"
+    },
+    {
+      "id": 45,
+      "name": "Mantecol",
+      "descriotion": "descripcion calorias"
+    }
+  ]
+}
